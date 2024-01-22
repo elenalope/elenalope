@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**elenalope/elenalope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**I am Elena López Morales**
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenalope&show_icons=true&theme=radical&include_all_commits=true)
